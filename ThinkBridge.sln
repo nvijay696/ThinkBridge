@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridge", "ThinkBridge\ThinkBridge.csproj", "{4824E925-C36C-4DB2-85E1-5162A9CDD832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeModels", "ThinkBridgeModels\ThinkBridgeModels.csproj", "{99C8A03B-7C83-48DE-B6F7-2997DF103A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeDataLayer", "ThinkBridgeDataLayer\ThinkBridgeDataLayer.csproj", "{D783779A-36E1-43F6-9823-A0817AD38C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeRepository", "ThinkBridgeRepository\ThinkBridgeRepository.csproj", "{2EF07774-E480-4BD7-A926-7B17FC95DE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeServiceLayer", "ThinkBridgeServiceLayer\ThinkBridgeServiceLayer.csproj", "{1C659AC6-DD78-4F6D-9598-D8B5256C23D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeBusinessLayer", "ThinkBridgeBusinessLayer\ThinkBridgeBusinessLayer.csproj", "{5E6AC510-AB00-466F-9198-0FD332697FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4824E925-C36C-4DB2-85E1-5162A9CDD832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4824E925-C36C-4DB2-85E1-5162A9CDD832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4824E925-C36C-4DB2-85E1-5162A9CDD832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4824E925-C36C-4DB2-85E1-5162A9CDD832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C8A03B-7C83-48DE-B6F7-2997DF103A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C8A03B-7C83-48DE-B6F7-2997DF103A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C8A03B-7C83-48DE-B6F7-2997DF103A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C8A03B-7C83-48DE-B6F7-2997DF103A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D783779A-36E1-43F6-9823-A0817AD38C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D783779A-36E1-43F6-9823-A0817AD38C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D783779A-36E1-43F6-9823-A0817AD38C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D783779A-36E1-43F6-9823-A0817AD38C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF07774-E480-4BD7-A926-7B17FC95DE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF07774-E480-4BD7-A926-7B17FC95DE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF07774-E480-4BD7-A926-7B17FC95DE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF07774-E480-4BD7-A926-7B17FC95DE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C659AC6-DD78-4F6D-9598-D8B5256C23D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C659AC6-DD78-4F6D-9598-D8B5256C23D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C659AC6-DD78-4F6D-9598-D8B5256C23D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C659AC6-DD78-4F6D-9598-D8B5256C23D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6AC510-AB00-466F-9198-0FD332697FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6AC510-AB00-466F-9198-0FD332697FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6AC510-AB00-466F-9198-0FD332697FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6AC510-AB00-466F-9198-0FD332697FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F5DBC7B-7E00-4C9B-9B73-729A4E41340D}
+	EndGlobalSection
+EndGlobal

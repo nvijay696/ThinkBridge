@@ -1,0 +1,16 @@
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeRepository.dll.config
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeRepository.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeRepository.pdb
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\EntityFramework.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeDataLayer.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeDataLayer.pdb
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\ThinkBridgeDataLayer.dll.config
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\EntityFramework.xml
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\obj\Debug\ThinkBridgeRepository.csprojAssemblyReference.cache
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\obj\Debug\ThinkBridgeRepository.csproj.CopyComplete
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\obj\Debug\ThinkBridgeRepository.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\obj\Debug\ThinkBridgeRepository.pdb
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\log4net.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeRepository\bin\Debug\log4net.xml

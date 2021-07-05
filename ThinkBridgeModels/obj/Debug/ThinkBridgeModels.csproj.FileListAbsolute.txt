@@ -1,0 +1,8 @@
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\bin\Debug\ThinkBridgeModels.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\bin\Debug\ThinkBridgeModels.pdb
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\obj\Debug\ThinkBridgeModels.csprojAssemblyReference.cache
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\obj\Debug\ThinkBridgeModels.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\obj\Debug\ThinkBridgeModels.pdb
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\bin\Debug\log4net.dll
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\bin\Debug\log4net.xml
+C:\Users\vijaykumar\Desktop\ThinkBridge\ThinkBridge\ThinkBridgeModels\obj\Debug\ThinkBridgeModels.csproj.CopyComplete
